@@ -7,7 +7,7 @@
     <description>Rachel X. Peng</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://rxpeng.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://rxpeng.github.io/media/icon_hudf86b74585956befc08dcd2dcd0519f3_52782_512x512_fill_lanczos_center_3.png</url>
       <title>Rachel X. Peng</title>
       <link>https://rxpeng.github.io/</link>
     </image>
@@ -53,20 +53,20 @@
     </item>
     
     <item>
-      <title>Understanding Information Needs during COVID-19</title>
-      <link>https://rxpeng.github.io/project/need/</link>
-      <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://rxpeng.github.io/project/need/</guid>
-      <description>&lt;p&gt;This project aims at identifying user’s information needs on Coronavirus and the differences of user’s information needs between the online health community MedHelp and the question-and-answer forum Quora during the COVID-19 global pandemic. We obtained the posts in the sub-community Coronavirus on MedHelp (195 posts with 1627 answers) and under the topic of COVID-19(2019-2020) on Quora (263 posts with 8401 answers) via web scraping built on Selenium WebDriver. After preprocessing, we conducted topic modeling on both corpora and identified the best topic model for each corpus based on the diagnostic evaluation. Leveraging the improved sqrt-cosine similarity measurement, we further compared the topic similarity between these two corpora. This study found that there are common information needs on both platforms about vaccination and basic elements of the disease including the onset symptoms, transmission routes, preventive measures, treatment and control of COVID-19. Some unique discussions on MedHelp are about psychological health, and therapeutic management of patients. Users on Quora have special interests of information about the association between vaccine and Luciferase, and attacks on Fauci after email trove released. The work is beneficial for researchers who aim to provide accurate information assistance and build effective online emergence response programs during the pandemic.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Perceived risk, political polarization, and the willingness to follow COVID-19 mitigation guidelines</title>
       <link>https://rxpeng.github.io/publication/risk/</link>
       <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://rxpeng.github.io/publication/risk/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Information Needs during COVID-19</title>
+      <link>https://rxpeng.github.io/project/need/</link>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://rxpeng.github.io/project/need/</guid>
+      <description>&lt;p&gt;This project aims at identifying user’s information needs on Coronavirus and the differences of user’s information needs between the online health community MedHelp and the question-and-answer forum Quora during the COVID-19 global pandemic. We obtained the posts in the sub-community Coronavirus on MedHelp (195 posts with 1627 answers) and under the topic of COVID-19(2019-2020) on Quora (263 posts with 8401 answers) via web scraping built on Selenium WebDriver. After preprocessing, we conducted topic modeling on both corpora and identified the best topic model for each corpus based on the diagnostic evaluation. Leveraging the improved sqrt-cosine similarity measurement, we further compared the topic similarity between these two corpora. This study found that there are common information needs on both platforms about vaccination and basic elements of the disease including the onset symptoms, transmission routes, preventive measures, treatment and control of COVID-19. Some unique discussions on MedHelp are about psychological health, and therapeutic management of patients. Users on Quora have special interests of information about the association between vaccine and Luciferase, and attacks on Fauci after email trove released. The work is beneficial for researchers who aim to provide accurate information assistance and build effective online emergence response programs during the pandemic.&lt;/p&gt;
+</description>
     </item>
     
     <item>
