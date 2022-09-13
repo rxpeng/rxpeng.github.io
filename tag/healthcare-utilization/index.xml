@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Healthcare utilization | Rachel X. Peng</title>
+    <link>https://rxpeng.github.io/tag/healthcare-utilization/</link>
+      <atom:link href="https://rxpeng.github.io/tag/healthcare-utilization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Healthcare utilization</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://rxpeng.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Healthcare utilization</title>
+      <link>https://rxpeng.github.io/tag/healthcare-utilization/</link>
+    </image>
+    
+    <item>
+      <title>How online searches fuel health anxiety: Investigating the link between health-related searches, health anxiety, and future intention</title>
+      <link>https://rxpeng.github.io/publication/anxiety/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://rxpeng.github.io/publication/anxiety/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
