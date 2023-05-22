@@ -5,7 +5,7 @@
     <link>https://rxpeng.github.io/tag/text-mining/</link>
       <atom:link href="https://rxpeng.github.io/tag/text-mining/index.xml" rel="self" type="application/rss+xml" />
     <description>Text mining</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://rxpeng.github.io/media/icon_hudf86b74585956befc08dcd2dcd0519f3_52782_512x512_fill_lanczos_center_3.png</url>
       <title>Text mining</title>
@@ -13,24 +13,11 @@
     </image>
     
     <item>
-      <title>The Infinity Vaccine War</title>
-      <link>https://rxpeng.github.io/project/vaxxer/</link>
-      <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://rxpeng.github.io/project/vaxxer/</guid>
-      <description>&lt;p&gt;As public health professionals strive to promote vaccines for inoculation effort, fervent anti-vaccination movements are marshaling against it. This study is motived by a need to better understand the online discussion around vaccination. We identified the sentiments, emotions and topics of pro- and anti-vaxxers’ tweets, investigated their change since the pandemic started, also further examined the associations between these content features and audiences’ engagement.&lt;/p&gt;
-&lt;p&gt;Utilizing a snowball sampling method, data were collected from the Twitter accounts of 100 pro-vaxxers (266,672 tweets) and 100 anti-vaxxers (248,027 tweets). We are adopting a lexicon-based approach for sentiment analysis, and structural topic modeling to extract the topics. And we use hurdle negative binomial model to test the relationships among sentiment, emotion, topics and engagement.&lt;/p&gt;
-&lt;p&gt;The sentiment analysis shows that the average sentiment of pro-vaxxers’ tweets is more positive, while of anti-vaxxers’ tweets is more negative. The cues of Trust encourage retweeting and the emotion of Anger encourages likes in general. Topic modeling of tweets yields the top15 topics for pro- and anti-vaxxers separately. Among the pro-vaxxers’ tweets, the topics of “Child protection” and “COVID-19 situation” are positively predicting audiences’ engagement. For anti-vaxxers, the topics of “Supporting Trump”, “Injured children”, “COVID-19 situation”, “Media propaganda”, and “Community building” are more appealing to audiences.&lt;/p&gt;
-&lt;p&gt;This study generates insights into the development of emotionally appealing content and effective vaccine promotion strategies while combating COVID-19 and moving toward a global recovery.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Understanding Information Needs during COVID-19</title>
-      <link>https://rxpeng.github.io/project/need/</link>
-      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://rxpeng.github.io/project/need/</guid>
-      <description>&lt;p&gt;This project aims at identifying user’s information needs on Coronavirus and the differences of user’s information needs between the online health community MedHelp and the question-and-answer forum Quora during the COVID-19 global pandemic. We obtained the posts in the sub-community Coronavirus on MedHelp (195 posts with 1627 answers) and under the topic of COVID-19(2019-2020) on Quora (263 posts with 8401 answers) via web scraping built on Selenium WebDriver. After preprocessing, we conducted topic modeling on both corpora and identified the best topic model for each corpus based on the diagnostic evaluation. Leveraging the improved sqrt-cosine similarity measurement, we further compared the topic similarity between these two corpora. This study found that there are common information needs on both platforms about vaccination and basic elements of the disease including the onset symptoms, transmission routes, preventive measures, treatment and control of COVID-19. Some unique discussions on MedHelp are about psychological health, and therapeutic management of patients. Users on Quora have special interests of information about the association between vaccine and Luciferase, and attacks on Fauci after email trove released. The work is beneficial for researchers who aim to provide accurate information assistance and build effective online emergence response programs during the pandemic.&lt;/p&gt;
-</description>
+      <title>Understanding information needs during COVID-19: A comparison study between an online health community and a Q&amp;A platform</title>
+      <link>https://rxpeng.github.io/publication/need/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://rxpeng.github.io/publication/need/</guid>
+      <description></description>
     </item>
     
   </channel>
